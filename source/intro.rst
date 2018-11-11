@@ -1,9 +1,16 @@
 ========================
-Welcome to the thing
+Automation Guide
 ========================
 
-this is text
-*this is italics*
-**this is bold**
+**About**
 
-new paragraph comes from space
+This guide offers an introductory view of programming concepts
+with the goal to help on-board new analysts who want to learn
+
+
+**Topics covered**
+
+- Python
+- SQL
+
+
