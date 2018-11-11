@@ -8,6 +8,7 @@ Welcome to automation_guide's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Table of Contents:
 
    intro.rst
+   pythonsection.rst
